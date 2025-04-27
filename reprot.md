@@ -136,7 +136,7 @@ void testSorting(vector<int>& arr, void (*sortFunc)(vector<int>&), string sortNa
 ---
 ![image](https://media.discordapp.net/attachments/967597712142901288/1365998197994033234/test123.png?ex=680f5875&is=680e06f5&hm=c12354b1b98e6c27d69ca67f82c3e6f6a85d6531c4a7870d72eb032c136879d0&=&format=webp&quality=lossless&width=323&height=779)
 
-##平均時間
+## 平均時間
 
 | 資料規模(n) | 插入排序 | 快速排序 | 合併排序 | 堆積排序 |
 |----|----|----|----|----|
@@ -146,7 +146,7 @@ void testSorting(vector<int>& arr, void (*sortFunc)(vector<int>&), string sortNa
 |4000 | 18032 ms | 101 ms    | 2876 ms   | 305 ms   |
 |5000 | 28391 ms | 78 ms    | 3765 ms   | 442 ms   |
 
-##最差方案
+## 最差方案
 
 | 資料規模(n) | 插入排序 | 快速排序 | 合併排序 | 堆積排序 |
 |----|----|----|----|----|
@@ -156,7 +156,7 @@ void testSorting(vector<int>& arr, void (*sortFunc)(vector<int>&), string sortNa
 |4000 | 72131 ms | 405 ms    | 11470 ms   | 1223 ms   |
 |5000 | 113566 ms | 314 ms    | 16062 ms   | 1770 ms   |
 
-##執行結果
+## 執行結果
 n=500
 ![image](https://cdn.discordapp.com/attachments/967597712142901288/1366141837735366746/image.png?ex=680fde3b&is=680e8cbb&hm=181178772d9156519a90593b289f8c08c9bae9ef4dc78d02c4a9f2c40f214700&)
 
