@@ -131,10 +131,6 @@ void testSorting(vector<int>& arr, void (*sortFunc)(vector<int>&), string sortNa
 }
 ```
 
-### 測試結果
-
-![image](https://media.discordapp.net/attachments/967597712142901288/1365998197994033234/test123.png?ex=680f5875&is=680e06f5&hm=c12354b1b98e6c27d69ca67f82c3e6f6a85d6531c4a7870d72eb032c136879d0&=&format=webp&quality=lossless&width=323&height=779)
-
 ## 平均時間
 
 | 資料規模(n) | 插入排序 | 快速排序 | 合併排序 | 堆積排序 |
