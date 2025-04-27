@@ -167,6 +167,14 @@ n=4000
 n=5000
 ![image](https://cdn.discordapp.com/attachments/967597712142901288/1366141977862737980/image.png?ex=680fde5d&is=680e8cdd&hm=2b199fba8024014b4f0ad5a11d9775cea59f225c1bd33debf2d0fd21c13e547e&)
 
+## 排序演算法平均時間對比
+
+![image](https://cdn.discordapp.com/attachments/967597712142901288/1366151831503507466/image.png?ex=680fe78a&is=680e960a&hm=c7ef42776ffbb4b2afb209460f7e0952e0637fcffb6e4ce9fc9cd4c1afe2f9ff&)
+
+## 最壞情況執行時間對比
+
+![image](https://cdn.discordapp.com/attachments/967597712142901288/1366152285834711060/image.png?ex=680fe7f6&is=680e9676&hm=9eae1e0600baaaa6d57e3ccc783e4ae21ca62cd8a873a531e399df628bae71fe&)
+
 ---
 
 ## 結論
